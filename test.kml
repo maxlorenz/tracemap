@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?> 	<kml xmlns="http://www.opengis.net/kml/2.2"> 	<Document> 	<name>Paths</name> 	<description></description><Placemark> 	<name>Hln.be </name> 	<description></description> 	<LineString> 	<coordinates>12.7385, 51.2565, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Tut.by </name> 	<description></description> 	<LineString> 	<coordinates>27.5563, 53.905, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Heise.de</name> 	<description></description> 	<LineString> 	<coordinates>11.5375, 48.1762, 0.
+7.39503, 51.4927, 0.
+7.39503, 51.4927, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Mercadolibre.com.ar </name> 	<description></description> 	<LineString> 	<coordinates>-0.889085, 41.6488, 0.
+-58.3816, -34.6033, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Musavat.com </name> 	<description></description> 	<LineString> 	<coordinates>3.20014, 50.6917, 0.
+3.1997, 50.6931, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Orf.at </name> 	<description></description> 	<LineString> 	<coordinates>16.3602, 48.1984, 0.
+16.3603, 48.1985, 0.
+16.3603, 48.1985, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Olx.bg </name> 	<description></description> 	<LineString> 	<coordinates>18.6358, 53.5076, 0.
+18.6358, 53.5076, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Barbadostoday.bb </name> 	<description></description> 	<LineString> 	<coordinates>7.81598, 51.6739, 0.
+11.5375, 48.1762, 0.
+-74.006, 40.7143, 0.
+-74.006, 40.7143, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Lostiempos.com </name> 	<description></description> 	<LineString> 	<coordinates>-73.9738, 40.7497, 0.
+57.4896, -20.2419, 0.
+-84.636, 42.7257, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Gazetaexpress.com </name> 	<description></description> 	<LineString> 	<coordinates>-122.3933, 37.7697, 0.
+-122.3933, 37.7697, 0.
+-122.3933, 37.7697, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Google.com</name> 	<description></description> 	<LineString> 	<coordinates>11.5375, 48.1762, 0.
+-122.0574, 37.4192, 0.
+-122.0574, 37.4192, 0.
+-122.0574, 37.4192, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Vk.com </name> 	<description></description> 	<LineString> 	<coordinates>30.381, 59.9474, 0.
+30.381, 59.9474, 0.
+30.381, 59.9474, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Olx.ba </name> 	<description></description> 	<LineString> 	<coordinates>3.1997, 50.6931, 0.
+3.1997, 50.6931, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Smh.com.au </name> 	<description></description> 	<LineString> 	<coordinates>-122.3341, 47.6103, 0.
+151.2073, -33.8678, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Uol.com.br </name> 	<description></description> 	<LineString> 	<coordinates>-3.65725, 40.5008, 0.
+-46.6915, -23.5701, 0.
+-46.6915, -23.5701, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Kalerkantho.com </name> 	<description></description> 	<LineString> 	<coordinates>11.5375, 48.1762, 0.
+57.4896, -20.2419, 0.
+57.4896, -20.2419, 0.
+-84.636, 42.7257, 0.
+-84.636, 42.7257, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Alwasatnews.com </name> 	<description></description> 	<LineString> 	<coordinates>11.5375, 48.1762, 0.
+4.8897, 52.374, 0.
+-77.4211, 38.9506, 0.
+-81.9498, 28.0395, 0.
+-82.5156, 27.9987, 0.
+-82.5156, 27.9987, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark><Placemark> 	<name>Facebook.com </name> 	<description></description> 	<LineString> 	<coordinates>11.5375, 48.1762, 0.
+-6.27277, 53.3406, 0.
+-122.1822, 37.4538, 0.
+-122.1822, 37.4538, 0.
+</coordinates> 	</LineString> 	<Style> 	<LineStyle> 	<color>#ff000ff</color> 	</LineStyle> 	</Style> 	</Placemark></Document> 	</kml>
