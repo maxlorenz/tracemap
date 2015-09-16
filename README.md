@@ -4,7 +4,7 @@ This is a simple script to traceroute many ips, geolocate the addresses and expo
 
 ## Example output with a limited number of addresses
 
-![](https://raw.githubusercontent.com/maxlorenz/tracemap/master/500_addresses.PNG)
+![](https://raw.githubusercontent.com/maxlorenz/tracemap/master/500_addresses.png)
 
 ## Future work
 
